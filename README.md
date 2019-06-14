@@ -6,7 +6,6 @@ webpack and ready to be made pretty by SASS/SCSS.
 ### What's in it?
 * 11ty
 * Webpack
-* UglifyJS
 * node-sass, css-mini-extract-plugin
 * An index.pug (but because of the majest of 11ty you can change this up and it will still work fine)
 
